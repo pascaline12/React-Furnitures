@@ -1,0 +1,28 @@
+{
+  "furnitures": [
+    {
+      "title": "chair",
+      "body": "a chair ispiece of furniture with a flat top and one or more legs, providing a level surface for eating, writing, or working at.",
+      "maker": "marry",
+      "id": "1"
+    },
+    {
+      "title": "cupBoard",
+      "body": "a chair ispiece of furniture with a flat top and one or more legs, providing a level surface for eating, writing, or working at.",
+      "maker": "marry",
+      "id": "2"
+    },
+    {
+      "title": "Table",
+      "body": "a chair ispiece of furniture with a flat top and one or more legs, providing a level surface for eating, writing, or working at.",
+      "maker": "Pascaline",
+      "id": "3"
+    },
+    {
+      "id": "f8aa",
+      "title": "njmxn",
+      "body": "sxx",
+      "maker": "Marry"
+    }
+  ]
+}
