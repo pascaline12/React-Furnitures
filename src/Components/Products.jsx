@@ -51,7 +51,7 @@ const Products = () => {
                     </div>
                     
                 </div>
-                <div className="w-full shadow-xl flex flex-col p-2 my-4 rounded-lg hover:scale-105 duration-300 gri grid-rows-2 ">
+                <div className="w-full shadow-xl flex flex-col p-2 my-4 rounded-lg hover:scale-300 duration-100 gri grid-rows-2 ">
                     <div >
                     <img className=' w-full mx-auto p-2 ' src={product4} alt="/" />
                     </div>

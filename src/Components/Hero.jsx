@@ -12,7 +12,7 @@ const Hero = () => {
             <div className='absolute top-0 w-full  my-60 p-4 '>
                 <h1 className=' text-[#323232] font-bold text-4xl p-4'>Discover the <br></br>best Furnitures</h1>
                 <p className='text-gray-500 p-4'>It provides a place to sit, sleep, eat, work, and store belongings.<br></br> Without furniture, 
-                    a room would be much less <br></br>functional and comfortable.
+                    a room would be much less <br></br>functional and comfortable. Uwase pascaline
                   </p>
 
                 <button className=' flex w-[150px]   font-medium p-2 items-center justify-center bg-[#323232] mt-7 ml-4 text-white '>
